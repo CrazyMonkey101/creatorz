@@ -2,22 +2,7 @@
 
 body { background color = #000000 }
 
-h1 {
+body {
   font-family: 'Ropa Sans', sans-serif;
   color: #00FF49;
-}
-
-h2 {
-  font-family: 'Ropa Sans', sans-serif;
-  color: #00FFF1;
-}
-
-p {
-  font-family: 'Ropa Sans', sans-serif;
-  color: #00FFA6;
-}
-
-link {
-  font-family: 'Ropa Sans', sans-serif;
-  color: #0008FF;
 }
