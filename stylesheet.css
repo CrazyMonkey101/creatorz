@@ -1,8 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Ropa+Sans&display=swap');
 
+body { background color = #000000 }
+
 h1 {
   font-family: 'Ropa Sans', sans-serif;
-  color: #004EFF;
+  color: #00FF49;
+}
+
+h2 {
+  font-family: 'Ropa Sans', sans-serif;
+  color: #00FFF1;
 }
 
 p {
