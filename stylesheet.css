@@ -12,3 +12,8 @@ body {
     background-color: #0108FF ;
     color: #01FF8F ;
 }
+
+.navbar {
+    border: 5px solid #9F01FF ;
+    padding: 5px solid #9F01FF ;
+}
