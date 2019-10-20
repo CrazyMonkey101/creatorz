@@ -13,8 +13,9 @@ body {
     color: #01FF8F ;
 }
 
-.navbar {
-    border: 5px solid #00FFA6 ;
-    padding: 10px;
+.navbar a {
+    display: block;
     color: #00FFA6 ;
+    text-align: center;
+    padding: 10px 5px;
 }
